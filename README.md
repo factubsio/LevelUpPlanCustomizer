@@ -6,7 +6,7 @@ Now with export for MC and story companions! (See How to try it section)
 
 ## IMPORTANT: By itself this mod does NOT change any in game builds. Until you add them yourself, the only effect will be avilability of automatic level up regardless on setting.
 
-Clarfification on last point: this is done by bypassing the check of game setting entirely. So even if 'Off' is selected, auto level can happen until you take control of leveling process.
+Clarification on last point: this is done by bypassing the check of game setting entirely. So even if 'Off' is selected, auto level can happen until you take control of levelling process.
 
 
 ## How it works
